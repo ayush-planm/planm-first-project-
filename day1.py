@@ -1,0 +1,8 @@
+print('I am learning python')
+print('Day 1 complete')
+name=input('what is your name?')
+print('welcom',name)
+name = input("Name: ")
+age = input("Age: ")
+print("Name:", name)
+print("Age:", age)
